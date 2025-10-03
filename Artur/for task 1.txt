@@ -1,0 +1,4 @@
+K = int(input ("K"))
+N = int(input ("N"))
+for _ in range(N):
+  print(K)

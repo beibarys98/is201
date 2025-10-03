@@ -1,0 +1,5 @@
+bytes= int('4028')
+kilob = bytes // 1024
+R = bytes % 1024
+print(kilob)
+print(R)

@@ -1,0 +1,3 @@
+M = int(input('1') )
+weight = M // 1000
+print (weight)

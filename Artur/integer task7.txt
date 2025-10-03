@@ -1,0 +1,7 @@
+a = 47
+b = a // 10
+c = a % 10
+s = b + c
+p = b * c
+print(s)
+print(p)
