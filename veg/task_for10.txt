@@ -1,0 +1,10 @@
+A = 10
+print(A)
+print()
+
+S = 0.0
+for i in range(A):
+  S += 1/(i+1)
+  print(S)
+
+print(S)

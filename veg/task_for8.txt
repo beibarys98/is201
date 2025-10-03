@@ -1,0 +1,11 @@
+A = 1
+B = 5
+C = A + B
+print(A, C)
+print()
+
+S = 1
+for i in range(A, B+1):
+  S *= i
+  print(i)
+print(S)

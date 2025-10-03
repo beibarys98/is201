@@ -1,0 +1,6 @@
+P = 2
+print(P)
+print()
+for i in range(0,5):
+  x = 1.2 + 0.2 * i
+  print(x, format(x * P))
