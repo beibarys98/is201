@@ -1,0 +1,10 @@
+A = 1
+B = 5
+print(A, B)
+print()
+
+S = 0
+for i in range(A, B+1):
+  S += i**2
+  print(i)
+print(S)
